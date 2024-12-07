@@ -15,10 +15,8 @@ A user-friendly web application to calculate estimated download times based on f
 
 ## Demo
 
-![Light Mode Screenshot](https://example.com/light-mode-screenshot)  
-![Dark Mode Screenshot](https://example.com/dark-mode-screenshot)
-
-> Replace the above image links with actual hosted images of your application.
+![Light Mode Screenshot](https://github.com/user-attachments/assets/27248ffb-0676-493b-a071-144ea2755e7d)
+![Dark Mode Screenshot](https://github.com/user-attachments/assets/69543f99-4815-407b-82f2-4002621c345c)
 
 ---
 
