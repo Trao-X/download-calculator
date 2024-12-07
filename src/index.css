@@ -3,22 +3,22 @@
 @tailwind utilities;
 
 body {
-  @apply bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-300;
+    @apply bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-300;
 }
 
 ::-webkit-scrollbar {
-  @apply w-2;
+    @apply w-2;
 }
 
 ::-webkit-scrollbar-track {
-  @apply bg-gray-100 dark:bg-gray-800;
+    @apply bg-gray-100 dark:bg-gray-800;
 }
 
 ::-webkit-scrollbar-thumb {
-  @apply bg-brand-blue dark:bg-brand-blue/70 rounded-full;
+    @apply bg-brand-blue dark:bg-brand-blue/70 rounded-full;
 }
 
 /* Improve focus states for accessibility */
 *:focus-visible {
-  @apply outline-none ring-2 ring-brand-blue ring-offset-2;
+    @apply outline-none ring-2 ring-brand-blue ring-offset-2;
 }
